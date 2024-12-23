@@ -1,4 +1,6 @@
 # ML-song-popularity-prediction
+## Video Walkthrough
+https://www.youtube.com/watch?v=4huGAVTG9kQ&t=333s&pp=ygUNbWVtbyBvemRpbmNlcg%3D%3D
 
 <h2>Get access to the database:</h2>
 
